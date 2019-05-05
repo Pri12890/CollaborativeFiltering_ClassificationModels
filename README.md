@@ -1,1 +1,1 @@
-# CollaborativeFiltering_ClassificationModels
+# CollaborativeFiltering_UserBased_ItemBased
